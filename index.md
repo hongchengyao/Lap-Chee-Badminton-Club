@@ -5,7 +5,7 @@
 ![practice image](https://i.ytimg.com/vi/OHE5a1iJeV0/hqdefault.jpg)
 
 ## Schedule
-***
+
 This week’s activity will be held on `Saturday, 8th April`, during `14:30 - 18:30` in Flora Ho Sports Center.
 
 Following is the court booking information:  
@@ -16,7 +16,7 @@ Following is the court booking information:
 * 17:30 - 18:30 FHM6
 
 ## Special Training
-***
+
 **Yuance Liu** will give a special training this week about `footwork` and `deep clear` for beginners. Be sure to come if you want to improve you skills!
 
 <br/>
