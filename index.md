@@ -1,10 +1,10 @@
-#Lap-Chee Badminton Club Weekly Training
+# Lap-Chee Badminton Club Weekly Training
 
 ><big>Practice makes perfect</big>
 
 ![practice image](https://i.ytimg.com/vi/OHE5a1iJeV0/hqdefault.jpg)
 
-##Schedule
+## Schedule
 ***
 This week’s activity will be held on `Saturday, 8th April`, during `14:30 - 18:30` in Flora Ho Sports Center.
 
@@ -15,10 +15,10 @@ Following is the court booking information:
 * 16:30 - 17:30 FHM6
 * 17:30 - 18:30 FHM6
 
-##Special Training
+## Special Training
 ***
 **Yuance Liu** will give a special training this week about `footwork` and `deep clear` for beginners. Be sure to come if you want to improve you skills!
 
 <br/>
-####Regards,
-####Lap-Chee Badminton Club
+#### Regards,
+#### Lap-Chee Badminton Club
