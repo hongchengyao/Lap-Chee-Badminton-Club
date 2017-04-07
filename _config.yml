@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 page: 
-  -Today
-  -Archive
+  - Today: index.md
+  - Archive: archive.md
