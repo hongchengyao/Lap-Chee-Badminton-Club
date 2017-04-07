@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+site_name: Lap-Chee Badminton Club
 page: 
   - Today: index.md
   - Archive: archive.md
