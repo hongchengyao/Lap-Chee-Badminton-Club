@@ -1,6 +1,6 @@
 # Lap-Chee Badminton Club Weekly Training
 
-><big>Practice makes perfect</big>
+>Practice makes perfect
 
 ![practice image](https://i.ytimg.com/vi/OHE5a1iJeV0/hqdefault.jpg)
 
