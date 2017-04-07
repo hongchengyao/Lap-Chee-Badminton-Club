@@ -21,5 +21,5 @@ Following is the court booking information:
 
 <br/>
 
-#### Regards,
-#### Lap-Chee Badminton Club
+#### Regards,  
+Lap-Chee Badminton Club
