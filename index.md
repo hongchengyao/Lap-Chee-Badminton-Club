@@ -20,5 +20,5 @@ Following is the court booking information:
 **Yuance Liu** will give a special training this week about `footwork` and `deep clear` for beginners. Be sure to come if you want to improve you skills!
 
 <br/>
-#### Regards,
-#### Lap-Chee Badminton Club
+### Regards,
+### Lap-Chee Badminton Club
