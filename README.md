@@ -1,1 +1,1 @@
-just a notification website for Lap-Chee Badminton Club
+Weekly notification website for Lap-Chee Badminton Club
